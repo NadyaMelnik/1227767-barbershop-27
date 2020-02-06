@@ -17,7 +17,6 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1227767-barbershop-27) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
@@ -27,7 +26,6 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037898-3f01b510-7bae-11e7-98fb-2bbba7236053.jpg">
 
